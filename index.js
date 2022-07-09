@@ -10,7 +10,7 @@ const Parser = require("rss-parser");
 const parser = new Parser();
 
 const websiteUrl = "https://enum-more.github.io/";
-const twitterUrl = "https://twitter.com/2190Ajith";
+const twitterUrl = "https://twitter.com/enum_more";
 const linkedInUrl = "https://www.linkedin.com/in/gnanaraj-mauviel-46b8561b1/";
 //const instagramUrl = "https://www.instagram.com/aidenpearce369/";
 //const mediumUrl = "https://medium.com/@aidenpearce369";
@@ -45,7 +45,7 @@ md.use(emoji);
   ## Latest Blog Posts\n
   ${blogPosts}\n
   ## Latest Tweets\n
-  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=2190Ajith&layout=wide)](https://twitter.com/2190Ajith)\n
+  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=enum_more&layout=wide)](https://twitter.com/enum_more)\n
   ## GitHub Stats\n
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enum-more&show_icons=true)`;
 
