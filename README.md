@@ -1,9 +1,7 @@
-<img src="https://raw.githubusercontent.com/AidenPearce369/AidenPearce369/main/header.jpg" alt="aidenpearce369 GitHub README header image">
-
-
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=enum-more)](https://github.com/enum-more/) [![GitHub followers](https://img.shields.io/github/followers/enum-more.svg?style=social&label=Follow)](https://github.com/enum-more?tab=followers)
 
 <img src="https://raw.githubusercontent.com/enum-more/enum-more-bio/master/emo.png" width="30">
+
 ### Hi 👋👋👋, 
 ### I'm Gnanaraj Mauviel - aka [enum-more](https://enum-more.github.io/) 
 
