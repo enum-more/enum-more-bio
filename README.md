@@ -1,3 +1,5 @@
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/hrSFdM4rg8VFpXyz2m" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/TOPTEMP-work-coding-toptemp-hrSFdM4rg8VFpXyz2m">via GIPHY</a></p>
+
 <img src="https://raw.githubusercontent.com/enum-more/enum-more-bio/master/emo.png" width="200" height="200">
 
 
